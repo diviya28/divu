@@ -1,0 +1,10 @@
+PSEUDOCODE:
+
+BEGIN
+  READ num
+  IF num % 2 == 0 THEN
+    PRINT "Even"
+  ELSE 
+    PRINT "Odd"
+  ENDIF
+END
